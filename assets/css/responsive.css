@@ -96,6 +96,18 @@
         margin-bottom: 16px;
     }
 
+    #slider .description {
+        width: 85%;
+    }
+
+    #member .member-list {
+        flex-direction: column;
+    }
+    
+    #member .text-h {
+        font-size: 26px;
+    }
+
     
 
 
